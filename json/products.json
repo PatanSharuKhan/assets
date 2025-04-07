@@ -1,0 +1,7 @@
+[
+    { "id": 1, "name": "Chair", "price": 2000, "rating": 5, "quantity": 20, "user_id": 1},
+    { "id": 2, "name": "Table", "price": 4000, "rating": 5, "quantity": 20, "user_id": 1},
+    { "id": 3, "name": "Mobile", "price": 10000, "rating": 5, "quantity": 20, "user_id": 2},
+    { "id": 4, "name": "Laptop", "price": 40000, "rating": 5, "quantity": 20, "user_id": 2},
+    { "id": 5, "name": "Shirt", "price": 500, "rating": 5, "quantity": 20, "user_id": 3}
+]

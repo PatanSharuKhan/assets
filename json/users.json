@@ -1,9 +1,7 @@
-{
-    "users": [
-        { "id": 1, "name": "Admin", "email": "admin@gmail.com", "password": "Admin@123" },
-        { "id": 2, "name": "User", "email": "user@gmail.com", "password": "User@123" },
-        { "id": 3, "name": "Customer", "email": "customer@gmail.com", "password": "Customer@123" },
-        { "id": 4, "name": "Dealer", "email": "dealer@gmail.com", "password": "Dealer@123" },
-        { "id": 5, "name": "Anonymous", "email": "anonymous@gmail.com", "password": "Anonymous@123" }
-    ]
-}
+[ 
+    { "id": 1, "name": "Admin", "email": "admin@gmail.com", "password": "Admin@123" },
+    { "id": 2, "name": "User", "email": "user@gmail.com", "password": "User@123" },
+    { "id": 3, "name": "Customer", "email": "customer@gmail.com", "password": "Customer@123" },
+    { "id": 4, "name": "Dealer", "email": "dealer@gmail.com", "password": "Dealer@123" },
+    { "id": 5, "name": "Anonymous", "email": "anonymous@gmail.com", "password": "Anonymous@123" }
+]
